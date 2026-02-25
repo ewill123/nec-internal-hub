@@ -1,5 +1,5 @@
-streamlit
-pandas
-pyyaml
-plotly
-reportlab
+streamlit==1.31.0
+pandas==2.1.4
+pyyaml==6.0.1
+plotly==5.18.0
+reportlab==4.1.0
