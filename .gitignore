@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+*.streamlit
+
+# Local data (keep the folder but not the db)
+data/
+!data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
